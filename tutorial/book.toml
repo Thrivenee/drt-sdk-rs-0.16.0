@@ -1,0 +1,6 @@
+[book]
+authors = ["Sumanth <saisumanthvadla@gmail.com>"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Numbat-Wasm Tutorial"
